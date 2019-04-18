@@ -1,4 +1,4 @@
-# SimleNGrams
+# SimpleNGrams
 
 The easiest way to get an array of n-grams from a string!
 
